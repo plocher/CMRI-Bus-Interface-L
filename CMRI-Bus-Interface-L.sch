@@ -8,24 +8,24 @@
 </settings>
 <grid distance="100" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="50" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -34,8 +34,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -43,19 +43,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -155,7 +155,7 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
-<schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
+<schematic xreflabel="%F%N" xrefpart="/%S.%C%R">
 <libraries>
 <library name="SparkFun">
 <packages>
@@ -1627,105 +1627,6 @@ if you push a header all the way into place, it is covered up entirely on the bo
 <hole x="5.08" y="3.81" drill="3.1"/>
 <hole x="43.98" y="3.81" drill="3.1"/>
 </package>
-<package name="BOARD-DINRAIL-3.17INX7CM">
-<wire x1="2.5" y1="10.16" x2="8" y2="10.16" width="0" layer="20"/>
-<wire x1="-2" y1="10.16" x2="73" y2="10.16" width="0.3048" layer="46"/>
-<wire x1="63" y1="10.16" x2="67.179971875" y2="10.16" width="0" layer="20"/>
-<wire x1="67.179971875" y1="10.16" x2="69.822" y2="12.66" width="0" layer="20" curve="90"/>
-<wire x1="69.822" y1="12.66" x2="69.822" y2="88.138" width="0" layer="20"/>
-<wire x1="69.822" y1="88.138" x2="67.179971875" y2="90.678" width="0" layer="20" curve="90"/>
-<wire x1="67.179971875" y1="90.678" x2="62" y2="90.678" width="0" layer="20"/>
-<wire x1="72" y1="90.678" x2="-3" y2="90.678" width="0.3048" layer="46"/>
-<wire x1="7" y1="90.678" x2="2.5" y2="90.678" width="0" layer="20"/>
-<wire x1="2.5" y1="90.678" x2="0" y2="87.63" width="0" layer="20" curve="90"/>
-<wire x1="0" y1="87.63" x2="0" y2="12.66" width="0" layer="20"/>
-<wire x1="0" y1="12.66" x2="2.5" y2="10.16" width="0" layer="20" curve="90"/>
-<hole x="64.742" y="15.24" drill="4"/>
-<hole x="5.08" y="85.344" drill="4"/>
-<hole x="64.742" y="85.344" drill="4"/>
-<hole x="5.08" y="15.24" drill="4"/>
-<dimension x1="71.6" y1="90.678" x2="71.6" y2="10.16" x3="74.14" y3="50.419" textsize="0.8128" layer="47" dtype="vertical" unit="inch"/>
-<dimension x1="70" y1="90.17" x2="0" y2="90.17" x3="35" y3="102.71" textsize="0.8128" layer="47" dtype="horizontal" width="0.127"/>
-<text x="72.07" y="102.71" size="1.016" layer="47">mm</text>
-<text x="74.14" y="52.07" size="1.016" layer="47" rot="R90">"</text>
-<wire x1="70.02" y1="90.805" x2="59.59" y2="90.805" width="0.127" layer="48"/>
-<wire x1="59.59" y1="90.805" x2="59.59" y2="50.165" width="0.127" layer="48"/>
-<wire x1="59.59" y1="50.165" x2="70.02" y2="50.165" width="0.127" layer="48"/>
-<wire x1="70.02" y1="50.165" x2="70.02" y2="90.805" width="0.127" layer="48"/>
-<text x="71.64" y="50.975" size="1.27" layer="48" rot="R90">name</text>
-<text x="20.64" y="2.54" size="1.27" layer="48" font="vector">3.17" Tyco Rail 7cm Template</text>
-<circle x="5.08" y="85.344" radius="2.83980625" width="0.127" layer="41"/>
-<circle x="5.08" y="85.344" radius="2.83980625" width="0.127" layer="42"/>
-<circle x="64.742" y="15.24" radius="2.83980625" width="0.127" layer="42"/>
-<circle x="64.742" y="15.24" radius="2.83980625" width="0.127" layer="41"/>
-<circle x="64.742" y="85.344" radius="2.83980625" width="0.127" layer="42"/>
-<circle x="64.742" y="85.344" radius="2.83980625" width="0.127" layer="41"/>
-<circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="42"/>
-<circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="41"/>
-<rectangle x1="0" y1="81.28" x2="70" y2="90.678" layer="40"/>
-<rectangle x1="0" y1="86.36" x2="70" y2="90.678" layer="39"/>
-<rectangle x1="0" y1="10.16" x2="70" y2="19.558" layer="40"/>
-<rectangle x1="0" y1="10.16" x2="70" y2="14.478" layer="39"/>
-<smd name="1" x="1.905" y="12.065" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
-<polygon width="0.127" layer="29">
-<vertex x="0.905" y="12.065" curve="90"/>
-<vertex x="1.905" y="11.065" curve="90"/>
-<vertex x="2.905" y="12.065" curve="90"/>
-<vertex x="1.905" y="13.065" curve="90"/>
-</polygon>
-<polygon width="0.127" layer="41">
-<vertex x="0.905" y="12.065" curve="90"/>
-<vertex x="1.905" y="11.065" curve="90"/>
-<vertex x="2.905" y="12.065" curve="90"/>
-<vertex x="1.905" y="13.065" curve="90"/>
-</polygon>
-<smd name="2" x="67.79" y="12.065" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
-<polygon width="0.127" layer="29">
-<vertex x="66.79" y="12.065" curve="90"/>
-<vertex x="67.79" y="11.065" curve="90"/>
-<vertex x="68.79" y="12.065" curve="90"/>
-<vertex x="67.79" y="13.065" curve="90"/>
-</polygon>
-<polygon width="0.127" layer="41">
-<vertex x="66.79" y="12.065" curve="90"/>
-<vertex x="67.79" y="11.065" curve="90"/>
-<vertex x="68.79" y="12.065" curve="90"/>
-<vertex x="67.79" y="13.065" curve="90"/>
-</polygon>
-<smd name="3" x="1.905" y="88.9" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
-<polygon width="0.127" layer="29">
-<vertex x="0.905" y="88.9" curve="90"/>
-<vertex x="1.905" y="87.9" curve="90"/>
-<vertex x="2.905" y="88.9" curve="90"/>
-<vertex x="1.905" y="89.9" curve="90"/>
-</polygon>
-<polygon width="0.127" layer="41">
-<vertex x="0.905" y="88.9" curve="90"/>
-<vertex x="1.905" y="87.9" curve="90"/>
-<vertex x="2.905" y="88.9" curve="90"/>
-<vertex x="1.905" y="89.9" curve="90"/>
-</polygon>
-<wire x1="0" y1="100" x2="70" y2="100" width="0.127" layer="20"/>
-<wire x1="70" y1="100" x2="70" y2="93.73" width="0.127" layer="20"/>
-<wire x1="70" y1="93.73" x2="62" y2="93.73" width="0.127" layer="20"/>
-<wire x1="62" y1="93.73" x2="62" y2="90.678" width="0.127" layer="20"/>
-<wire x1="0" y1="100" x2="0" y2="93.73" width="0.127" layer="20"/>
-<wire x1="0" y1="93.73" x2="7" y2="93.73" width="0.127" layer="20"/>
-<wire x1="7" y1="93.73" x2="7" y2="90.678" width="0.127" layer="20"/>
-<wire x1="70" y1="0" x2="0" y2="0" width="0.127" layer="20"/>
-<wire x1="0" y1="0" x2="0" y2="7.54" width="0.127" layer="20"/>
-<wire x1="0" y1="7.54" x2="8" y2="7.54" width="0.127" layer="20"/>
-<wire x1="8" y1="7.54" x2="8" y2="10.16" width="0.127" layer="20"/>
-<wire x1="70" y1="0" x2="70" y2="7.54" width="0.127" layer="20"/>
-<wire x1="70" y1="7.54" x2="63" y2="7.54" width="0.127" layer="20"/>
-<wire x1="63" y1="7.54" x2="63" y2="10.16" width="0.127" layer="20"/>
-<text x="-16.54" y="90" size="1.6764" layer="46" font="vector">V-Groove</text>
-<text x="-15.54" y="10" size="1.6764" layer="46" font="vector">V-Groove</text>
-<hole x="5.08" y="96.52" drill="3.1"/>
-<hole x="65.25" y="96.52" drill="3.1"/>
-<hole x="5.08" y="3.81" drill="3.1"/>
-<hole x="63.98" y="3.81" drill="3.1"/>
-</package>
 <package name="BOARD-DINRAIL-3.17INX8CM-NOHOLES">
 <wire x1="2.5" y1="10.16" x2="8" y2="10.16" width="0" layer="20"/>
 <wire x1="-2" y1="10.16" x2="83.5" y2="10.16" width="0.3048" layer="46"/>
@@ -2820,13 +2721,13 @@ Layout for IOB I2C cards</text>
 </package>
 <package name="BOARD-DINRAIL-3.17INX6CM">
 <wire x1="2.5" y1="10.16" x2="8" y2="10.16" width="0" layer="20"/>
-<wire x1="-2" y1="10.16" x2="63" y2="10.16" width="0.3048" layer="46"/>
+<wire x1="-3" y1="10.16" x2="103" y2="10.16" width="0.3048" layer="46"/>
 <wire x1="53" y1="10.16" x2="57.179971875" y2="10.16" width="0" layer="20"/>
 <wire x1="57.179971875" y1="10.16" x2="59.822" y2="12.66" width="0" layer="20" curve="90"/>
 <wire x1="59.822" y1="12.66" x2="59.822" y2="88.138" width="0" layer="20"/>
 <wire x1="59.822" y1="88.138" x2="57.179971875" y2="90.678" width="0" layer="20" curve="90"/>
 <wire x1="57.179971875" y1="90.678" x2="52" y2="90.678" width="0" layer="20"/>
-<wire x1="62" y1="90.678" x2="-3" y2="90.678" width="0.3048" layer="46"/>
+<wire x1="103" y1="90.678" x2="-3" y2="90.678" width="0.3048" layer="46"/>
 <wire x1="7" y1="90.678" x2="2.5" y2="90.678" width="0" layer="20"/>
 <wire x1="2.5" y1="90.678" x2="0" y2="87.63" width="0" layer="20" curve="90"/>
 <wire x1="0" y1="87.63" x2="0" y2="12.66" width="0" layer="20"/>
@@ -2853,10 +2754,10 @@ Layout for IOB I2C cards</text>
 <circle x="54.742" y="85.344" radius="2.83980625" width="0.127" layer="41"/>
 <circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="42"/>
 <circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="41"/>
-<rectangle x1="-10" y1="81.28" x2="60" y2="90.678" layer="40"/>
-<rectangle x1="-10" y1="86.36" x2="60" y2="90.678" layer="39"/>
-<rectangle x1="-10" y1="10.16" x2="60" y2="19.558" layer="40"/>
-<rectangle x1="-10" y1="10.16" x2="60" y2="14.478" layer="39"/>
+<rectangle x1="0" y1="81.28" x2="60" y2="90.678" layer="40"/>
+<rectangle x1="0" y1="86.36" x2="60" y2="90.678" layer="39"/>
+<rectangle x1="0" y1="10.16" x2="60" y2="19.558" layer="40"/>
+<rectangle x1="0" y1="10.16" x2="60" y2="14.478" layer="39"/>
 <polygon width="0.127" layer="29">
 <vertex x="0.905" y="12.065" curve="90"/>
 <vertex x="1.905" y="11.065" curve="90"/>
@@ -2893,19 +2794,17 @@ Layout for IOB I2C cards</text>
 <vertex x="2.905" y="88.9" curve="90"/>
 <vertex x="1.905" y="89.9" curve="90"/>
 </polygon>
-<wire x1="0" y1="100" x2="60" y2="100" width="0.127" layer="20"/>
-<wire x1="60" y1="100" x2="60" y2="93.73" width="0.127" layer="20"/>
-<wire x1="60" y1="93.73" x2="52" y2="93.73" width="0.127" layer="20"/>
+<wire x1="0" y1="100" x2="100" y2="100" width="0.127" layer="20"/>
+<wire x1="63" y1="93.73" x2="52" y2="93.73" width="0.127" layer="20"/>
 <wire x1="52" y1="93.73" x2="52" y2="90.678" width="0.127" layer="20"/>
 <wire x1="0" y1="100" x2="0" y2="93.73" width="0.127" layer="20"/>
 <wire x1="0" y1="93.73" x2="7" y2="93.73" width="0.127" layer="20"/>
 <wire x1="7" y1="93.73" x2="7" y2="90.678" width="0.127" layer="20"/>
-<wire x1="60" y1="0" x2="0" y2="0" width="0.127" layer="20"/>
+<wire x1="100" y1="0" x2="0" y2="0" width="0.127" layer="20"/>
 <wire x1="0" y1="0" x2="0" y2="7.54" width="0.127" layer="20"/>
 <wire x1="0" y1="7.54" x2="8" y2="7.54" width="0.127" layer="20"/>
 <wire x1="8" y1="7.54" x2="8" y2="10.16" width="0.127" layer="20"/>
-<wire x1="60" y1="0" x2="60" y2="7.54" width="0.127" layer="20"/>
-<wire x1="60" y1="7.54" x2="53" y2="7.54" width="0.127" layer="20"/>
+<wire x1="63" y1="7.54" x2="53" y2="7.54" width="0.127" layer="20"/>
 <wire x1="53" y1="7.54" x2="53" y2="10.16" width="0.127" layer="20"/>
 <text x="-16.54" y="90" size="1.6764" layer="46" font="vector">V-Groove</text>
 <text x="-15.54" y="10" size="1.6764" layer="46" font="vector">V-Groove</text>
@@ -2913,6 +2812,8 @@ Layout for IOB I2C cards</text>
 <hole x="55.25" y="96.52" drill="3.1"/>
 <hole x="5.08" y="3.81" drill="3.1"/>
 <hole x="53.98" y="3.81" drill="3.1"/>
+<wire x1="100" y1="100" x2="100" y2="0" width="0.127" layer="20"/>
+<wire x1="63" y1="93.73" x2="63" y2="7.54" width="0.127" layer="20"/>
 </package>
 <package name="0201-CAP">
 <description>Source: http://www.avxcorp.com/docs/catalogs/cx5r.pdf</description>
@@ -3245,6 +3146,105 @@ chip</description>
 <wire x1="-3.556" y1="-1.016" x2="1.016" y2="-1.016" width="0.4064" layer="21"/>
 <wire x1="-3.556" y1="-1.016" x2="-3.556" y2="1.016" width="0.4064" layer="21"/>
 <wire x1="1.016" y1="-1.016" x2="1.016" y2="1.016" width="0.4064" layer="21"/>
+</package>
+<package name="BOARD-DINRAIL-3.17INX7CM">
+<wire x1="2.5" y1="10.16" x2="8" y2="10.16" width="0.3048" layer="20"/>
+<wire x1="-3" y1="10.16" x2="103" y2="10.16" width="0.3048" layer="46"/>
+<wire x1="63" y1="10.16" x2="67.179971875" y2="10.16" width="0.3048" layer="20"/>
+<wire x1="67.179971875" y1="10.16" x2="69.822" y2="12.66" width="0.3048" layer="20" curve="90"/>
+<wire x1="69.822" y1="12.66" x2="69.822" y2="88.138" width="0.3048" layer="20"/>
+<wire x1="69.822" y1="88.138" x2="67.179971875" y2="90.678" width="0.3048" layer="20" curve="90"/>
+<wire x1="67.179971875" y1="90.678" x2="62" y2="90.678" width="0.3048" layer="20"/>
+<wire x1="103" y1="90.678" x2="-3" y2="90.678" width="0.3048" layer="46"/>
+<wire x1="7" y1="90.678" x2="2.5" y2="90.678" width="0.3048" layer="20"/>
+<wire x1="2.5" y1="90.678" x2="0" y2="87.63" width="0.3048" layer="20" curve="90"/>
+<wire x1="0" y1="87.63" x2="0" y2="12.66" width="0.3048" layer="20"/>
+<wire x1="0" y1="12.66" x2="2.5" y2="10.16" width="0.3048" layer="20" curve="90"/>
+<hole x="64.742" y="15.24" drill="4"/>
+<hole x="5.08" y="85.344" drill="4"/>
+<hole x="64.742" y="85.344" drill="4"/>
+<hole x="5.08" y="15.24" drill="4"/>
+<dimension x1="71.6" y1="90.678" x2="71.6" y2="10.16" x3="74.14" y3="50.419" textsize="0.8128" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="70" y1="90.17" x2="0" y2="90.17" x3="35" y3="102.71" textsize="0.8128" layer="47" dtype="horizontal" width="0.127"/>
+<text x="72.07" y="102.71" size="1.016" layer="47">mm</text>
+<text x="74.14" y="52.07" size="1.016" layer="47" rot="R90">"</text>
+<wire x1="70.02" y1="90.805" x2="59.59" y2="90.805" width="0.127" layer="48"/>
+<wire x1="59.59" y1="90.805" x2="59.59" y2="50.165" width="0.127" layer="48"/>
+<wire x1="59.59" y1="50.165" x2="70.02" y2="50.165" width="0.127" layer="48"/>
+<wire x1="70.02" y1="50.165" x2="70.02" y2="90.805" width="0.127" layer="48"/>
+<text x="71.64" y="50.975" size="1.27" layer="48" rot="R90">name</text>
+<text x="20.64" y="2.54" size="1.27" layer="48" font="vector">3.17" Tyco Rail 7cm Template</text>
+<circle x="5.08" y="85.344" radius="2.83980625" width="0.127" layer="41"/>
+<circle x="5.08" y="85.344" radius="2.83980625" width="0.127" layer="42"/>
+<circle x="64.742" y="15.24" radius="2.83980625" width="0.127" layer="42"/>
+<circle x="64.742" y="15.24" radius="2.83980625" width="0.127" layer="41"/>
+<circle x="64.742" y="85.344" radius="2.83980625" width="0.127" layer="42"/>
+<circle x="64.742" y="85.344" radius="2.83980625" width="0.127" layer="41"/>
+<circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="42"/>
+<circle x="5.08" y="15.24" radius="2.83980625" width="0.127" layer="41"/>
+<rectangle x1="0" y1="81.28" x2="70" y2="90.678" layer="40"/>
+<rectangle x1="0" y1="86.36" x2="70" y2="90.678" layer="39"/>
+<rectangle x1="0" y1="10.16" x2="70" y2="19.558" layer="40"/>
+<rectangle x1="0" y1="10.16" x2="70" y2="14.478" layer="39"/>
+<smd name="1" x="1.905" y="12.065" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
+<polygon width="0.127" layer="29">
+<vertex x="0.905" y="12.065" curve="90"/>
+<vertex x="1.905" y="11.065" curve="90"/>
+<vertex x="2.905" y="12.065" curve="90"/>
+<vertex x="1.905" y="13.065" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="41">
+<vertex x="0.905" y="12.065" curve="90"/>
+<vertex x="1.905" y="11.065" curve="90"/>
+<vertex x="2.905" y="12.065" curve="90"/>
+<vertex x="1.905" y="13.065" curve="90"/>
+</polygon>
+<smd name="2" x="67.79" y="12.065" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
+<polygon width="0.127" layer="29">
+<vertex x="66.79" y="12.065" curve="90"/>
+<vertex x="67.79" y="11.065" curve="90"/>
+<vertex x="68.79" y="12.065" curve="90"/>
+<vertex x="67.79" y="13.065" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="41">
+<vertex x="66.79" y="12.065" curve="90"/>
+<vertex x="67.79" y="11.065" curve="90"/>
+<vertex x="68.79" y="12.065" curve="90"/>
+<vertex x="67.79" y="13.065" curve="90"/>
+</polygon>
+<smd name="3" x="1.905" y="88.9" dx="1" dy="1" layer="1" roundness="100" stop="no" cream="no"/>
+<polygon width="0.127" layer="29">
+<vertex x="0.905" y="88.9" curve="90"/>
+<vertex x="1.905" y="87.9" curve="90"/>
+<vertex x="2.905" y="88.9" curve="90"/>
+<vertex x="1.905" y="89.9" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="41">
+<vertex x="0.905" y="88.9" curve="90"/>
+<vertex x="1.905" y="87.9" curve="90"/>
+<vertex x="2.905" y="88.9" curve="90"/>
+<vertex x="1.905" y="89.9" curve="90"/>
+</polygon>
+<wire x1="0" y1="100" x2="100" y2="100" width="0.3048" layer="20"/>
+<wire x1="73" y1="93.73" x2="62" y2="93.73" width="0.3048" layer="20"/>
+<wire x1="62" y1="93.73" x2="62" y2="90.678" width="0.3048" layer="20"/>
+<wire x1="0" y1="100" x2="0" y2="93.73" width="0.3048" layer="20"/>
+<wire x1="0" y1="93.73" x2="7" y2="93.73" width="0.3048" layer="20"/>
+<wire x1="7" y1="93.73" x2="7" y2="90.678" width="0.3048" layer="20"/>
+<wire x1="100" y1="0" x2="0" y2="0" width="0.3048" layer="20"/>
+<wire x1="0" y1="0" x2="0" y2="7.54" width="0.3048" layer="20"/>
+<wire x1="0" y1="7.54" x2="8" y2="7.54" width="0.3048" layer="20"/>
+<wire x1="8" y1="7.54" x2="8" y2="10.16" width="0.3048" layer="20"/>
+<wire x1="73" y1="7.54" x2="63" y2="7.54" width="0.3048" layer="20"/>
+<wire x1="63" y1="7.54" x2="63" y2="10.16" width="0.3048" layer="20"/>
+<text x="-16.54" y="90" size="1.6764" layer="46" font="vector">V-Groove</text>
+<text x="-15.54" y="10" size="1.6764" layer="46" font="vector">V-Groove</text>
+<hole x="5.08" y="96.52" drill="3.1"/>
+<hole x="65.25" y="96.52" drill="3.1"/>
+<hole x="5.08" y="3.81" drill="3.1"/>
+<hole x="63.98" y="3.81" drill="3.1"/>
+<wire x1="100" y1="100" x2="100" y2="0" width="0.3048" layer="20"/>
+<wire x1="73" y1="93.73" x2="73" y2="7.54" width="0.3048" layer="20"/>
 </package>
 </packages>
 <symbols>
@@ -4492,7 +4492,7 @@ speed range with 0.1uF and 12k</text>
 <wire x1="5.08" y1="7.62" x2="104.14" y2="7.62" width="0.000153125" layer="97"/>
 <wire x1="104.14" y1="7.62" x2="104.14" y2="139.7" width="0.000153125" layer="97"/>
 <wire x1="104.14" y1="139.7" x2="5.08" y2="139.7" width="0.000153125" layer="97"/>
-<text x="238.76" y="12.7" size="2.54" layer="91">1.0</text>
+<text x="238.76" y="12.7" size="2.54" layer="91">1.1</text>
 <text x="149.86" y="20.32" size="2.54" layer="91">CMRInet interface</text>
 <text x="165.1" y="6.35" size="2.54" layer="91">John Plocher / Chuck Catania</text>
 <text x="17.78" y="40.64" size="1.778" layer="97" rot="R90">AutoRTS Values</text>
@@ -4500,6 +4500,7 @@ speed range with 0.1uF and 12k</text>
 <wire x1="15.24" y1="71.12" x2="15.24" y2="27.94" width="0.000153125" layer="98"/>
 <wire x1="15.24" y1="27.94" x2="22.86" y2="27.94" width="0.000153125" layer="98"/>
 <wire x1="22.86" y1="27.94" x2="22.86" y2="71.12" width="0.000153125" layer="98"/>
+<text x="147.32" y="30.48" size="1.27" layer="91">v1.1 - changed BOARD to be a 10cmx10cm size so that V-Scores allowed</text>
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="55.88" y="48.26" smashed="yes">
