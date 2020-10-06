@@ -906,9 +906,9 @@ design rules under a new name.
 <element name="TXX21" library="SPCoast" package="0603-LED" value="Y" x="87.465" y="57.785"/>
 <element name="U1X21" library="SPCoast" package="SO14" value="MAX3465CSD" x="63.97" y="29.845" rot="R90"/>
 <element name="U2X21" library="SPCoast" package="SO08" value="NE555" x="72.86" y="19.685"/>
-<element name="U2X1" library="SPCoast" package="BOARD-10X8X2-TEMPLATE" value="10x10" x="0" y="0"/>
-<element name="FID-UL" library="SPCoast" package="FIDUCIAL_1MM" value="FID" x="6.35" y="92.075"/>
-<element name="FID-LR" library="SPCoast" package="FIDUCIAL_1MM" value="FID" x="93.98" y="7.62"/>
+<element name="U2X1" library="SPCoast" package="BOARD-10X8X2-TEMPLATE" value="BOARD" x="0" y="0"/>
+<element name="FID-UL" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="6.35" y="92.075"/>
+<element name="FID-LR" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="93.98" y="7.62"/>
 </elements>
 <signals>
 <signal name="GNDX11">

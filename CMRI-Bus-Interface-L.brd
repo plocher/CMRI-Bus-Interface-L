@@ -684,15 +684,15 @@ design rules under a new name.
 <attribute name="NAME" x="29.718" y="16.891" size="1.016" layer="21" font="vector" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="31.115" y="16.891" size="1.016" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
-<element name="C2" library="SPCoast" package="0603-CAP" value=".01uF" x="29.21" y="10.16" smashed="yes" rot="R270">
+<element name="C2" library="SPCoast" package="0603-CAP" value="0.01uF" x="29.21" y="10.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="27.305" y="7.62" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="27.051" y="12.446" size="1.016" layer="27" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="C4" library="SPCoast" package="0603-CAP" value=".01uF" x="13.716" y="14.224" smashed="yes">
+<element name="C4" library="SPCoast" package="0603-CAP" value="0.01uF" x="13.716" y="14.224" smashed="yes">
 <attribute name="NAME" x="9.906" y="13.589" size="1.016" layer="25" font="vector" ratio="10"/>
 <attribute name="VALUE" x="12.446" y="11.684" size="1.016" layer="27" font="vector" ratio="10"/>
 </element>
-<element name="C5" library="SPCoast" package="0603-CAP" value=".01uF" x="19.431" y="10.16" smashed="yes" rot="R270">
+<element name="C5" library="SPCoast" package="0603-CAP" value="0.01uF" x="19.431" y="10.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="19.431" y="6.985" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="17.526" y="12.7" size="1.016" layer="27" font="vector" ratio="10" rot="R270"/>
 </element>

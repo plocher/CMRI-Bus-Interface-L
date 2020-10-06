@@ -2252,15 +2252,15 @@ Source: MAX3465-MAX3469.pdf</description>
 <part name="U2" library="SPCoast" deviceset="NE555" device="D" value="NE555"/>
 <part name="U1" library="SPCoast" deviceset="MAX346*" device="SD" technology="5C" value="MAX3465CSD"/>
 <part name="C1" library="SPCoast" deviceset="CAP*" device="0603" value="0.1uF"/>
-<part name="C2" library="SPCoast" deviceset="CAP*" device="0603" value=".01uF"/>
+<part name="C2" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
 <part name="R1" library="SPCoast" deviceset="R*" device="PTH04" value="12k"/>
 <part name="D1" library="SPCoast" deviceset="DIODE-BAV199" device="" value="BAV199"/>
 <part name="P+1" library="SparkFun" deviceset="VCC" device=""/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="P+2" library="SparkFun" deviceset="VCC" device=""/>
 <part name="GND3" library="SparkFun" deviceset="GND" device=""/>
-<part name="C4" library="SPCoast" deviceset="CAP*" device="0603" value=".01uF"/>
-<part name="C5" library="SPCoast" deviceset="CAP*" device="0603" value=".01uF"/>
+<part name="C4" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
+<part name="C5" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
 <part name="R2" library="SPCoast" deviceset="R*" device="0805-RES" value="470"/>
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
 <part name="CMRINET2" library="SPCoast" deviceset="CONNECTOR-CMRINET" device="3.5MM" value="3.5mm"/>
